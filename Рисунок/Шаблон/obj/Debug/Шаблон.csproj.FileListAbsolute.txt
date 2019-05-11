@@ -1,0 +1,21 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\bin\Debug\Шаблон.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\bin\Debug\Шаблон.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\bin\Debug\Шаблон.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Шаблон\obj\Debug\Шаблон.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Шаблон\Шаблон\bin\Debug\Шаблон.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Шаблон\Шаблон\obj\Debug\Шаблон.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Шаблон\Шаблон\obj\Debug\Шаблон.pdb
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\bin\Debug\Шаблон.exe.config
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.exe
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.pdb
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\bin\Debug\Шаблон.exe
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\bin\Debug\Шаблон.pdb
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.csprojResolveAssemblyReference.cache
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.Form1.resources
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.Properties.Resources.resources
+E:\Программирование\Лаб. работа №10\Шаблон\Шаблон\obj\Debug\Шаблон.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шаблон", "Шаблон\Шаблон.csproj", "{3F829C30-6502-4664-8474-360427DFA366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вишнёвое дерево", "Вишнёвое дерево\Вишнёвое дерево.csproj", "{96F8B862-7F69-456B-8E82-B3E52C2028D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F829C30-6502-4664-8474-360427DFA366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F829C30-6502-4664-8474-360427DFA366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F829C30-6502-4664-8474-360427DFA366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F829C30-6502-4664-8474-360427DFA366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F8B862-7F69-456B-8E82-B3E52C2028D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F8B862-7F69-456B-8E82-B3E52C2028D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F8B862-7F69-456B-8E82-B3E52C2028D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F8B862-7F69-456B-8E82-B3E52C2028D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
